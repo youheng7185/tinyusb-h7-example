@@ -1,0 +1,10 @@
+../Core/Src/main.c:64:13:echo_serial_port	5
+../Core/Src/main.c:81:6:tud_mount_cb	1
+../Core/Src/main.c:86:6:tud_umount_cb	1
+../Core/Src/main.c:90:13:cdc_task	3
+../Core/Src/main.c:117:5:main	1
+../Core/Src/main.c:164:6:SystemClock_Config	4
+../Core/Src/main.c:224:13:MX_LPUART1_UART_Init	5
+../Core/Src/main.c:272:13:MX_USB_OTG_HS_PCD_Init	2
+../Core/Src/main.c:308:13:MX_GPIO_Init	1
+../Core/Src/main.c:329:6:Error_Handler	1
